@@ -8,6 +8,13 @@
   color: #0284D0;
 }
 
+/* Clearfix */
+
+.clearfix::after{
+  content: " dsfs";
+  clear: both;
+}
+
 /*Button*/
 
 .btn{
